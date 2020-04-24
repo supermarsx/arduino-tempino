@@ -16,13 +16,14 @@ Demonstration thermometer application with arduino uno, multi function shield, a
 
 ## Quick Start
 
-1. Download and install Arduino application and libraries accordingly;
-2. Build/connect Arduino Uno with multi function shield and thermocouple according to the image;
-3. Download `tempino.ino`;
-4. Change `REFRESH_RATE` inside `tempino.ino` to your preferred value;
-5. Connect your newly build tempino to the computer and then select board type and port inside arduino application;
-6. Send `tempino.ino` to arduino;
-7. Enjoy
+1. Download and install Arduino software IDE and libraries needed for the project;
+2. Build Arduino Uno with multi function shield and thermocouple according to the sketch;
+3. Git clone this project or just download `tempino.ino`;
+4. Adjust temperature readings per second to your preferred value with `REFRESH_RATE` inside `tempino.ino`;
+5. Connect your built Arduino to the computer;
+6. On Arduino IDE select board type (if not selected) and port;
+7. Send `tempino.ino` to Arduino;
+8. Enjoy
 
 ## Libraries
 
