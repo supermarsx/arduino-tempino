@@ -35,7 +35,7 @@ This project uses 3 libraries, you can find a copy of each inside `libs` folder 
 
 - MultiFuncShield, [Cohesivecomputing website](https://files.cohesivecomputing.co.uk/MultiFuncShield-Library-1_3.zip)
 
-## Mini FAQ
+## Brief Q&A
 
 Q.: My screen shows NaN, how can i solve it?
 
