@@ -1,5 +1,7 @@
 # arduino-tempino
 
+``` Descontinued, should still work ```
+
 ![Arduino connection sketch](https://github.com/eduardomota/arduino-tempino/raw/master/assets/sketch.svg)
 
 Demonstration thermometer application with arduino uno, multi function shield, and max6675 thermocouple. Measures current temperature with good accuracy up to one (1) decimal place. You can extend the thermometer to use more of the shields capabilities such as  buttons, buzzer, leds, and potentiometer/trimpot.
